@@ -1,7 +1,7 @@
-ng.daterangepicker
-==================
+# ngDaterangepicker
+------------------------------------------------------------------------
 
-# Date Range Picker for Bootstrap
+## Date Range Picker for Bootstrap
 
 ![Improvely.com](http://i.imgur.com/LbAMf3D.png)
 
@@ -14,7 +14,7 @@ and end date from. Optionally, you can provide a list of date ranges the user ca
 of choosing dates from the calendars. If attached to a text input, the selected dates will be inserted 
 into the text box. Otherwise, you can provide a custom callback function to receive the selection.
 
-<h3>Implementation</h3>
+### Implementation
 ```
 <ng-date-range bind="modalDates" min="minRangeDate" max="maxRangeDate" limit="limitRangeDate" class="reportrange"></ng-date-range>
 ```
