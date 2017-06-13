@@ -1,0 +1,24 @@
+{
+  "name": "ng.daterangepicker",
+  "description": "Date Range Picker for Bootstrap",
+  "author": "Miller Augusto S. Martins <miller.augusto@gmail.com>",
+  "version": "1.0.1",
+  "keywords": [
+    "Bootstrap",
+    "js",
+    "front-end",
+    "web",
+    "Angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miamarti/ng.daterangepicker"
+  },
+  "main": "dist/ng-daterange.min.js",
+  "dependencies": {
+    "jquery": ">= 1.9.1",
+    "bootstrap" : "*"
+  },
+  "license": "MIT",
+  "homepage": "http://miamarti.github.io/ng.daterangepicker/"
+}
