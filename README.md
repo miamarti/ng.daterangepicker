@@ -32,7 +32,7 @@ This is a project based at http://www.daterangepicker.com/
 ```
 ## Bower install de dependency
 ```
-$ bower install ng.daterangepicker --save
+$ bower install ng.daterangepicker-bootstrap --save
 ```
 
 ## NPM install
