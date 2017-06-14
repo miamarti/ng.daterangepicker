@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg">
   <a href="https://github.com/miamarti/ng.daterangepicker/tarball/master"><img src="https://img.shields.io/github/downloads/atom/atom/latest/total.svg"></a>
   <img src="https://img.shields.io/bower/v/bootstrap.svg">
+  <a href="http://waffle.io/miamarti/ng.daterangepicker"><img alt='Stories in Ready' src='https://badge.waffle.io/miamarti/ng.daterangepicker.svg?label=ready&title=Ready' height="21" /></a>
 </p>
 
 ![Improvely.com](http://i.imgur.com/LbAMf3D.png)
@@ -31,3 +32,12 @@ into the text box. Otherwise, you can provide a custom callback function to rece
 ```
 $ bower install ng.daterangepicker --save
 ```
+
+## NPM install
+```
+$ sudo npm install ng.daterangepicker --save
+```
+
+## Metrics
+
+[![Throughput Graph](https://graphs.waffle.io/miamarti/ng.daterangepicker/throughput.svg)](https://waffle.io/miamarti/ng.daterangepicker/metrics/throughput)
